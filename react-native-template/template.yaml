@@ -3,7 +3,7 @@ apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 # some metadata about the template itself
 metadata:
-  name: v1beta3-demo
+  name: rn-template
   title: React Native Template
   description: Create a new React Native App project
   tags:

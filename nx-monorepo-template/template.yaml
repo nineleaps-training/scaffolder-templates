@@ -3,7 +3,7 @@ apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 # some metadata about the template itself
 metadata:
-  name: v1beta3-demo
+  name: nx-template
   title: Nx MonoRepo Template
   description: Create a new Nx Monorepo
   tags:
