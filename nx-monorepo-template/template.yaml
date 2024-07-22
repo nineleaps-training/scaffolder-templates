@@ -9,7 +9,8 @@ metadata:
   tags:
     - monorepo
     - Nx
-    - java-script
+    - javascript
+spec:
   owner: nirmit04
   type: monorepo
 
